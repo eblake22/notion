@@ -110,8 +110,8 @@
 				window.open("https://example.com", '_blank').focus();
 			else if (id == "resourses")
 				window.open("https://example.com3", '_blank').focus();
-			else if (id == "lifewiki")
-				window.open("https://example.com", '_blank').focus();
+			else if (id == "reading log")
+				window.open("https://www.notion.so/elizabethblake/Reading-Log-c984d97b779c43349493f7042494ea27?pvs=4", '_blank').focus();
 
 		}
 	</script>
